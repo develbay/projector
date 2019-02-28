@@ -1,5 +1,5 @@
 {
-  "name": "projector",
+  "name": "@develbay/projector",
   "version": "0.0.1",
   "description": "NodeJS starter kit",
   "main": "src/projector.js",
