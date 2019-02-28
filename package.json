@@ -1,0 +1,22 @@
+{
+  "name": "projector",
+  "version": "0.0.1",
+  "description": "NodeJS starter kit",
+  "main": "src/projector.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/develbay/projector.git"
+  },
+  "keywords": [
+    "project",
+    "nodejs starter kit"
+  ],
+  "author": "DevelBay Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/develbay/projector/issues"
+  },
+  "homepage": "https://github.com/develbay/projector#readme"
+}
